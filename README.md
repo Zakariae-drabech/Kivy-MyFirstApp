@@ -10,8 +10,8 @@ Introduction to Mobile Development
 - ## Second Screen
 ![Main Screen](images/SecondScr.png)
 
-- ## Thirth Screen
-![Main Screen](images/ThirthScr.png)
+- ## Third Screen
+![Main Screen](images/ThirdScr.png)
 
 - ## Fourth Screen
 ![Main Screen](images/FourthScr.png)
